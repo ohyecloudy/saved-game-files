@@ -11,5 +11,8 @@
 * 관리자 권한으로 실행.
 
 # why?
-* 스팀에서 dead space 스팀 클라우드 서비스를 지원했다면 이런 짓 안 했어.
+* [스팀](http://store.steampowered.com/)에서 [dead space](http://store.steampowered.com/app/17470/) 스팀 클라우드 서비스를 지원했다면 이런 짓 안 했어.
 * 제길.
+
+# game list
+* [dead space](http://store.steampowered.com/app/17470/)

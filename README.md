@@ -12,6 +12,7 @@
 
 # why?
 * [스팀](http://store.steampowered.com/)에서 [dead space](http://store.steampowered.com/app/17470/) 스팀 클라우드 서비스를 지원했다면 이런 짓 안 했어.
+* [dropbox](http://www.dropbox.com/)를 사용 못하는 환경.
 * 제길.
 
 # game list

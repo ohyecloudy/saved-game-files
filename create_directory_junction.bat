@@ -1,0 +1,1 @@
+mklink /J "../Electronic Arts" "Electronic Arts"

@@ -1,8 +1,6 @@
 # setup
-
-    git clone git@github.com:ohyecloudy/game_saved_files.git ./game_saved_files
-
-* '내 문서' 경로에서 실행
+    $my_documents = [Environment]::GetFolderPath("MyDocuments")
+    git clone git@github.com:ohyecloudy/saved-game-files.git $my_documents/saved-game-files
 
 # create directory junction
     create_directory_junction.bat

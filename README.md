@@ -3,10 +3,9 @@
     git clone git@github.com:ohyecloudy/saved-game-files.git $my_documents/saved-game-files
 
 # create directory junction
-    create_directory_junction.bat
+    create_directory_junction.ps1
 
 * direction junction을 만들어야 한다.
-* 관리자 권한으로 실행.
 
 # why?
 * [스팀](http://store.steampowered.com/)에서 [dead space](http://store.steampowered.com/app/17470/) 스팀 클라우드 서비스를 지원했다면 이런 짓 안 했어.

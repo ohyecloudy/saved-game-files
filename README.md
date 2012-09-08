@@ -14,3 +14,4 @@
 
 # game list
 * [dead space](http://store.steampowered.com/app/17470/)
+* [dead space2](http://store.steampowered.com/app/47780/)

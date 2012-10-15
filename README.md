@@ -15,3 +15,5 @@
 # game list
 * [dead space](http://store.steampowered.com/app/17470/)
 * [dead space2](http://store.steampowered.com/app/47780/)
+* [XCOM - Enemy Unknown](http://store.steampowered.com/app/200510/)
+ * 지원 안해서 좀 당황. 다음 패치에서 아마 해주겠지.
